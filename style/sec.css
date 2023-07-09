@@ -50,6 +50,7 @@ nav a{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
 .profile{
     width: 500px;
@@ -98,4 +99,7 @@ nav a{
  }
  .information{
     text-align: center;
+ }
+ #data{
+    padding: 25px 150px;
  }
